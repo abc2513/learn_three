@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "cannon": "^0.6.2",
     "dat.gui": "^0.7.9",
     "gsap": "^3.12.2",
     "lil-gui": "^0.18.2",
